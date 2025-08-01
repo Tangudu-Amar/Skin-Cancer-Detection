@@ -33,6 +33,9 @@ SKIN_CANCER_DETECTION/
 ---
 
 ## 🧪 How to Run the Project Locally
+### Visit [Render](https://skin-cancer-detection-u6ws.onrender.com/) to deploy web app.
+
+Or
 
 ### 1. Clone the Repository
 
